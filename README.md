@@ -38,3 +38,6 @@ Berdasarkan latar belakang masalah dan rumusan masalah, maka dirumuskan beberapa
   Fokus pada analisis perilaku pengguna, termasuk demografi pengguna dan pola penggunaan, untuk memahami preferensi dan kebutuhan mereka.
 * Metodologi:
   Metodologi yang digunakan akan mencakup analisis statistik deskriptif untuk menggambarkan data, serta analisis regresi untuk mengidentifikasi faktor-faktor yang mempengaruhi perilaku pengguna dan efisiensi rute.
+
+Link Dashboard Tableau Public 
+https://public.tableau.com/app/profile/elisa.elisa/viz/Elisa_CapstoneProjectModul2_DashboardTableau/DashboardPerformanceNYCTaxiTrip?publish=yes
